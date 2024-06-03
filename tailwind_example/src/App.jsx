@@ -19,6 +19,8 @@ function App() {
       <h1 className='p-3 text-2xl bg-green-500 rounded-md'>with rounded corners</h1> */}
        <Card url = {url1} des = {about} name = "Vimala Kesireddy" sign = "Flutter Developer, Hyderabad"></Card>
        <Card></Card>
+       <Card></Card>
+       <Card></Card>
     </>
   )
 }
